@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6BC956D4-33EA-1C81-CDB6-9349B73081D2}") = "Rubik", "Assembly-CSharp-firstpass.csproj", "{09265555-709B-C977-94F4-7461B45E51BF}"
+EndProject
+Project("{6BC956D4-33EA-1C81-CDB6-9349B73081D2}") = "Rubik", "Assembly-CSharp-Editor-firstpass.csproj", "{83CD5419-5FD3-7012-27F9-F25B4ACCA909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09265555-709B-C977-94F4-7461B45E51BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09265555-709B-C977-94F4-7461B45E51BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09265555-709B-C977-94F4-7461B45E51BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09265555-709B-C977-94F4-7461B45E51BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CD5419-5FD3-7012-27F9-F25B4ACCA909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CD5419-5FD3-7012-27F9-F25B4ACCA909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CD5419-5FD3-7012-27F9-F25B4ACCA909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CD5419-5FD3-7012-27F9-F25B4ACCA909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
